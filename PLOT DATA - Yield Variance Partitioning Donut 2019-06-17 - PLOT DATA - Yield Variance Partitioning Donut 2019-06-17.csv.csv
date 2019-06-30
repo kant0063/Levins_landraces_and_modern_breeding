@@ -1,0 +1,8 @@
+PREDICTOR,SUMSQ,pVAR,MX,Source,MN
+Location,4054186618,43.59,43.59,Location,0
+Year by Location,3180843608,34.2,77.79,"Location
+by Year",43.59
+Genotype,790361062.8,8.5,86.29,Genotype,77.79
+Home Site,214969246.8,2.31,88.6,Home Site,86.29
+Year,182732581.4,1.96,90.56,Year,88.6
+Residuals,877099478.6,9.43,99.99,Residuals,90.56
